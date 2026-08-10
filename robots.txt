@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-na-dengi-s-vyvodom-na-sberbank.github.io
+Sitemap: https://kazino-na-dengi-s-vyvodom-na-sberbank.github.io/sitemap.xml
